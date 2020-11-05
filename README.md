@@ -19,7 +19,7 @@ and start rolling it around (clockwise) character by character to discover hidde
 
 e.g.
 ```
-"123456" =>
+"123456789" =>
 
 923
 814
