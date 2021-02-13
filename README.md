@@ -50,6 +50,6 @@ and does not do something I do not wish in my repo)
 
 There was a submission from a friend who decided to not publish it ='(
 What I really liked (and hated) on that solution was it was sent as a picture
-of 18x18 chars (solution code fed to itself) which looked just awesome.
+of 19x19 chars (solution code fed to itself) which looked just awesome.
 
 But please, send your code in plaintext =D
